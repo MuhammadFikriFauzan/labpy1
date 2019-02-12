@@ -1,5 +1,9 @@
 # labpy1
 
+Input :
+
+![screenshot 23](https://user-images.githubusercontent.com/46735552/52613692-810a1c00-2ec1-11e9-890e-4baa0da4108b.png)
+
 # Penjelasan Program
 
 1. Masukkan bilangan sebanyak 3 buah bilangan.
