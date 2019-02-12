@@ -1,6 +1,6 @@
 # labpy1
 
-Input :
+# Input :
 
 ![screenshot 23](https://user-images.githubusercontent.com/46735552/52613692-810a1c00-2ec1-11e9-890e-4baa0da4108b.png)
 
@@ -19,3 +19,5 @@ Input :
 6. Apabila perbandingan kedua tersebut false, maka akan tercetak nilai (c).
 
 7. Nilai yang tercetak merupakan nilai yang terbesar. Berikut hasilnya :
+
+![screenshot 26](https://user-images.githubusercontent.com/46735552/52613823-13aabb00-2ec2-11e9-8012-e42d6a6e61af.png)
